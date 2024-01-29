@@ -1,1 +1,2 @@
 # FactorialCalculator
+The Python program defines a function calculate_factorial to compute the factorial of a given number using a loop. The main function handles user input, ensuring it is a non-negative integer, and then calls the factorial function to display the result. The program provides input validation and offers a user-friendly experience for calculating factorials. Save it as a Python file and run it to interactively calculate factorials.
